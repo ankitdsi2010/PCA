@@ -1,1 +1,1 @@
-It is visualiztion of PCA
+It is visualization of PCA
